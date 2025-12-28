@@ -21,11 +21,12 @@ You can view the live version of the project here: [Rezort Live Demo](https://m0
 ## Project Structure
 ```
 Rezort/
-├── index.html
-├── css/
-│ └── style.css
+├── pages/
+│ └── index.html
+├── style/
+│ └── main.css
 ├── js/
-│ └── script.js
+│ └── main.js
 ├── images/
 └── README.md
 ```
